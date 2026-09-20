@@ -1,0 +1,6 @@
+{
+  "name": "Android Password Manager",
+  "description": "Offline-first secure Android password manager with Kotlin, Jetpack Compose, Room with SQLCipher, Android Keystore, and Biometric unlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
